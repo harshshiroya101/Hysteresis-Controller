@@ -43,4 +43,4 @@ The specific controlled quantity, threshold values, switching logic, and plant b
 - No performance results are claimed here. Run the simulation and record your own observations.
 
 ## License
-No license has been specified. Add a license if you plan to distribute this project.
+This Project is under MIT license.
